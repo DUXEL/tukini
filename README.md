@@ -1,2 +1,2 @@
 # tuquini
-Tiquini student assistant
+Tuquini student assistant
